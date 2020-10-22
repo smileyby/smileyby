@@ -53,7 +53,7 @@ B：Morgan Freeman got his big break at 52.
 B：Steve Carell only got his break after 40 years old.
 B：Virgin was started by Richard Branson at 34.
 B：Getting your degree after 25 is still an achievement.
-B：Not being married at 30 bug still happy is beautiful.
+B：Not being married at 30 but still happy is beautiful.
 B：Starting family after 35 is still possible and buying a house after 40 is still great.
 B：Don`t let anyone rush you with their timelines.
 B：Because as Einstein said, "Not everything that counts can be counted and not everything that`s counted truly counts"
