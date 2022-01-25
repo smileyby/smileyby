@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 [![Smileyby's GitHub stats](https://github-readme-stats.vercel.app/api?username=smileyby&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 > 
-<!-- [![Smileyby's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=_Shine&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Smileyby's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=_Shine&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
